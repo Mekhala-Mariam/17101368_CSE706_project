@@ -3,7 +3,6 @@ Project CSE 706: An optimized, high-performance implementation of the k-Means cl
 # Accelerated $k$-Means Algorithm for Processing Clusters Across Images
 
 [![Course](https://img.shields.io/badge/Course-CSE%20706-blue.svg)](https://github.com/)
-[![Degree](https://img.shields.io/badge/Degree-M.Sc.%20in%20CSE-green.svg)](https://github.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/)
 
 This repository contains the official implementation of the M.Sc. degree project for **CSE 706**. The project focuses on optimizing and accelerating the $k$-Means clustering algorithm to efficiently process, segment, and analyze pixel and feature clusters across single and multi-image datasets.
